@@ -4,7 +4,7 @@
 
 <br/>
 
-By leveraging the power of collaborative filtering and nearest neighbor techniques, the BetterMart Collaborative-Based Recommendation System empowers users to discover new products that align with their preferences and provides a personalized shopping experience. With accurate and relevant recommendations, BetterMart aims to enhance customer satisfaction, increase sales, and foster long-term customer loyalty.
+By leveraging the power of collaborative filtering and nearest neighbor techniques, the BetterMart(an e-commerce website developed by me) Collaborative-Based Recommendation System empowers users to discover new products that align with their preferences and provides a personalized shopping experience. With accurate and relevant recommendations, BetterMart aims to enhance customer satisfaction, increase sales, and foster long-term customer loyalty.
 <br/>
 
 
